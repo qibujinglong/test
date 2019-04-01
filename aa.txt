@@ -1,10 +1,15 @@
+test fast forward
+1234
+test ff not adsdfasdf
+d
+test ff
 dev1111
 master
-22222222;wq3333
+q3333
 dddddddd
-:werwerwerwerwewerwer
+erwerwerwerwewerwer
 er
-we ~
+test ff 1
 123444444444444
 110
 111
@@ -12,6 +17,10 @@ we ~
 113
 114-before
 114-dev2
+115-dev2-no ff
+115-dev3
 115-before
 115-->116
 115-after
+116-before
+116
